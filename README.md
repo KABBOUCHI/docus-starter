@@ -1,3 +1,5 @@
+![docus preview](./static/preview.png)
+
 # Docus Starter
 
 Starter template for [Docus](https://docus.dev).
